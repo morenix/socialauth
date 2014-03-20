@@ -6,7 +6,7 @@
 		<artifactId>oss-parent</artifactId>
 		<version>7</version>
 	</parent>
-	<groupId>org.brickred</groupId>
+	<groupId>com.jmoreno</groupId>
 	<artifactId>socialauth</artifactId>
 	<name>socialauth</name>
 	<version>4.4</version>
